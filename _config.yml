@@ -23,7 +23,7 @@ repository               : "SeanCho1996/SeanCho1996.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "resized.png"
   name             : "Zixiao (Adrien) Zhao"
   pronouns         : "He/Him"  
   bio              : "Software Engineer"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Zixiao ZHAO
+  linkedin         : https://www.linkedin.com/in/zixiao-zhao-148641153/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

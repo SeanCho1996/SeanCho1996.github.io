@@ -16,4 +16,4 @@ I got my Bacholar of Engineering Degree in **Xidian University** (Xi'an Universi
 
 ## Work Experience
 I used to work in National University of Singapore (Suzhou) Research Institute as a Research Assistant, worked on a auto-machine learning platform, specifically for medical image processing domain (2020.10 - 2023.1).  
-Then I joined a start-up company in Suzhou, Bodhibrain, as a senior algorithm engineer, wokred on a project of Fetal Brain Segmentation software (2023.1 - 2023.10).
+Then I joined a start-up company in Suzhou, Bodhibrain, as a senior algorithm engineer, worked on a project of Fetal Brain Segmentation software (2023.1 - 2023.10).

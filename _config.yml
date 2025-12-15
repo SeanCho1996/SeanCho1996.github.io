@@ -26,7 +26,7 @@ author:
   avatar           : "resized.png"
   name             : "Zixiao (Adrien) Zhao"
   pronouns         : "He/Him"  
-  bio              : "Software Engineer"
+  bio              : "PhD, Software Engineer"
   location         : "Auckland, New Zealand"
   employer         : "University of Auckland"
   uri              : # URL
@@ -80,14 +80,14 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : https://www.zhihu.com/people/zhao-zi-xiao-60
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  # books:
+  #   title: 'Books'
+  # manuscripts:
+  #   title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
 

@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "MaCTG: Multi-Agent Collaborative Thought Graph for Automatic Programming"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+date: 2026-4-16
+venue: 'ICSE 2026, Rio de Janeiro, Brazil'
+paperurl: 'https://arxiv.org/pdf/2410.19245?'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 

@@ -2,9 +2,9 @@
 title: "MaCTG: Multi-Agent Collaborative Thought Graph for Automatic Programming"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/mactg
 # excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2026-4-16
+date: 2026-04-16
 venue: 'ICSE 2026, Rio de Janeiro, Brazil'
 paperurl: 'https://arxiv.org/pdf/2410.19245?'
 citation: 'Zhao, Z., Sun, J., Hou, Z., Wei, Z., Cai, C. H., Qiao, M., & Dong, J. S. (2024). &quot;Mactg: Multi-agent collaborative thought graph for automatic programming.&quot; <i>arXiv preprint arXiv:2410.19245.</i>'

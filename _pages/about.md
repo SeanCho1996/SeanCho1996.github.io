@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Zixiao Zhao. I'm currently a PhD student in the School of Computer Science in the [University of Auckland](https://www.auckland.ac.nz/en.html), under the supervision of Associate Professor [Jing Sun](https://profiles.auckland.ac.nz/jing-sun). My research topic focuses on Auto-Software Engineering for Medical Image Processing.
-
-I'm also a PhD representative of CS department. We are organizing our CS PhD Pizza Lunch Seminar, check [our website](https://sites.google.com/view/csphd?pli=1) for previous and upcoming talks and all other information.
+Hi! My name is Zixiao (Adrien) Zhao. I'm currently a PhD student in the School of Computer Science in the [University of Auckland](https://www.auckland.ac.nz/en.html), under the supervision of Associate Professor [Jing Sun](https://profiles.auckland.ac.nz/jing-sun). My research topic is **Agentic program generation and automated validation for medical data analysis**, with a focus on automated generation, execution, and validation of machine learning workflows.
 
 I speak Mandarin (mother tongue), English (C1), French (B2) and a little Spanish.
 
